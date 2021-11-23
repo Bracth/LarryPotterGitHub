@@ -2,4 +2,5 @@
 
 Esta serie de libros cuentan la historia de un hacker de leyenda.
 
-**Bryan Florencio**, Git fan
+<<<<<<< HEAD
+**Bryan Florencio**, Git fan and Larry Plotter fan
